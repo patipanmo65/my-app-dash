@@ -1,0 +1,18 @@
+/* DataTablePage.css */
+.tableContainer {
+  max-width: 1000px;
+  margin-top: 16px;
+  overflow-x: auto;
+}
+
+.table {
+  min-width: 650px;
+}
+
+.tableRow {
+  /* เพิ่ม custom styles สำหรับ row ที่นี่ หากต้องการ */
+}
+
+.tableCell {
+  /* เพิ่ม custom styles สำหรับ cell ที่นี่ หากต้องการ */
+}

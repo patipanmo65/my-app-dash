@@ -1,0 +1,14 @@
+/* In your CSS file */
+.chartContainerWithSidebar {
+  margin-left: 300px;
+}
+
+.chartPageMarginTop {
+  margin-top: 150px; /* Adjust based on your navbar's height */
+}
+
+@media (max-width: 768px) {
+  .chartContainerWithSidebar {
+    margin-left: 0;
+  }
+}
